@@ -1,0 +1,15 @@
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.csproj.AssemblyReference.cache
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.csproj.SuggestedBindingRedirects.cache
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Form1.resources
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Form2.resources
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Form3.resources
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Properties.Resources.resources
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.csproj.GenerateResource.cache
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.csproj.CoreCompileInputs.cache
+D:\HK6\CNPM\Lab3456\lab3456\bin\Debug\lab3456.exe.config
+D:\HK6\CNPM\Lab3456\lab3456\bin\Debug\lab3456.exe
+D:\HK6\CNPM\Lab3456\lab3456\bin\Debug\lab3456.pdb
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.exe
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.pdb
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Form4.resources
+D:\HK6\CNPM\Lab3456\lab3456\obj\Debug\lab3456.Form5.resources
